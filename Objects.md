@@ -1,5 +1,5 @@
 <div align="center">
-<H1>Kubernetes Objekts</H1>
+<H1>Kubernetes Objects</H1>
 </div>
 <br>
 
