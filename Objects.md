@@ -49,4 +49,10 @@ ReplicationController гарантирует , что указанное кол�
 
 ---
 
+<img src="images/work_objects.png" width="1000" height="800" >
+
+---
+
 <img src="https://github.com/AYaskuld/Kubernetes/blob/0b5bc95ad5c1a604683cd53deebe629edeb8f61e/images/k8s_objects.png" width="800" height="600" >
+
+
