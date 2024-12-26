@@ -1,1 +1,1 @@
-![изображение](https://github.com/user-attachments/assets/6b42d7bd-9f81-476b-a7e2-872a96039ab3)
+![изображение](https://github.com/user-attachments/assets/619498db-ac15-4152-bc62-32bfc973fc3c)
